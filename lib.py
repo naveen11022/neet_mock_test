@@ -1,6 +1,7 @@
 import mysql.connector
 import datetime
 import tabulate
+
 connections = mysql.connector.connect(
     host="localhost",
     user="naveen",
