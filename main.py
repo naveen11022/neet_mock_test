@@ -1,3 +1,6 @@
+import os
+print(os.getcwd())
+
 from lib import *
 print("Welcome To Neet mock Test !".center(80))
 
